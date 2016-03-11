@@ -1,0 +1,6 @@
+{
+  "mongo": {
+    "serverHost": "localhost",
+    "serverPort": 27017
+  }
+}
